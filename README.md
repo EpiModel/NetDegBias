@@ -7,7 +7,7 @@
 
 A Pre-Print is currently available at medRxiv: https://doi.org/10.1101/19003830
 
-![Figure 1](https://github.com/EpiModel/NetStats/blob/master/Analyses/Fig1.jpg)
+![Figure 1](https://github.com/EpiModel/NetDegBias/blob/master/Fig1.jpg)
 
 ### Abstract
 
@@ -23,5 +23,5 @@ Across partnership types, the baseline ongoing status measure was 70% accurate, 
 #### Conclusions 	
 Research studies may overestimate degree when it is quantified cross-sectionally. Adjustment and structured sensitivity analyses may account for bias in studies of HIV or STI prevention interventions.
 
-![Figure 1](https://github.com/EpiModel/NetStats/blob/master/Analyses/Fig2.jpg)
+![Figure 1](https://github.com/EpiModel/NetDegBias/blob/master/Fig2.jpg)
 
